@@ -29,7 +29,7 @@ DS-Agent automates the entire data science workflow with intelligent decision-ma
 ### System Design
 The platform is built on a modern, scalable architecture:
 
-<img width="1024" height="1536" alt="WhatsApp Image 2026-06-21 at 10 00 21 PM" src="https://github.com/user-attachments/assets/ec87a804-28cd-4c85-8823-b0cace7b546f" />
+<img width="4680" height="1293" alt="image" src="https://github.com/user-attachments/assets/10333e6d-94dc-46c4-97d7-423b9d9163a0" />
 
 ```
 
