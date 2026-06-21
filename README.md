@@ -1,4 +1,4 @@
-# DS-Agent: AI-Powered Data Science Agent
+<img width="1059" height="970" alt="f18ac633-ca78-4c33-9e1e-cd9d74d69f45" src="https://github.com/user-attachments/assets/6da5e91c-7802-4061-bc7f-bbb218528ff2" /># DS-Agent: AI-Powered Data Science Agent
 
 DS-Agent is a full-stack autonomous data science platform that transforms a raw CSV into dataset profiling, data cleaning, feature engineering, model training, chart generation, HTML reporting, and AI-generated narrative insights with minimal human intervention. It combines a Next.js frontend, FastAPI backend, classical ML pipelines, and local LLM inference through Ollama and Qwen2.5.
 
@@ -187,8 +187,14 @@ A typical 10,000-row dataset with 100+ initial features:
 
 **Total time to insights: ~23 seconds**
 
-## Screenshots : https://drive.google.com/drive/folders/1M4LJdh4EinAc9ZcRGybX2qsPXYCeD10M?usp=sharing
-## Demo Video : https://drive.google.com/file/d/1FTEeb_BLwmZtQIBJcjTh-L-JWcLoc6SE/view?usp=sharing
+
+## Demo Video : 
+
+https://github.com/user-attachments/assets/5f7add83-edbe-4388-b712-bc9756f21a5b
+
+(Sorry for the low Quality)
+
+Screenshots can be accessed through the link at the bottom of this file.
 
 ## Project Structure
 
@@ -228,3 +234,9 @@ ds-agent/
 - [ ] Real-time streaming data support
 - [ ] Advanced ensemble techniques and stacking
 - [ ] Natural language query interface for data exploration
+
+## Executive Graphic 
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/8fa4deb1-9aaa-4c71-a02e-53264a184f2a" />
+
+## Screenshots : https://drive.google.com/drive/folders/1M4LJdh4EinAc9ZcRGybX2qsPXYCeD10M?usp=sharing
