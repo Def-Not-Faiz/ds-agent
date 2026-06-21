@@ -187,6 +187,9 @@ A typical 10,000-row dataset with 100+ initial features:
 
 **Total time to insights: ~23 seconds**
 
+## Screenshots : https://drive.google.com/drive/folders/1M4LJdh4EinAc9ZcRGybX2qsPXYCeD10M?usp=sharing
+## Demo Video : https://drive.google.com/file/d/1FTEeb_BLwmZtQIBJcjTh-L-JWcLoc6SE/view?usp=sharing
+
 ## Project Structure
 
 ```
@@ -203,24 +206,8 @@ ds-agent/
 │   └── main.py            # FastAPI app entry point
 ├── docker-compose.yml       # Docker orchestration
 ├── README.md               # This file
-└── LICENSE                 # License information
+
 ```
-
-## Contributing
-
-We welcome contributions! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit changes (`git commit -m 'Add amazing feature'`)
-4. Push to branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-### Development Guidelines
-- Follow PEP 8 for Python code
-- Use TypeScript for frontend development
-- Write tests for new features
-- Update documentation accordingly
 
 ## Roadmap & Future Work
 
