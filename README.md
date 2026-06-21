@@ -59,6 +59,9 @@ The platform is built on a modern, scalable architecture:
 ```
 
 ### ML Pipeline Flow
+
+<img width="8904" height="1608" alt="image" src="https://github.com/user-attachments/assets/5dcfd13d-449b-4ce0-8843-830339206b33" />
+
 ```
 Raw CSV → Profile → Clean → Feature Engineer → Train Models → 
 Evaluate → Compare → Select Best → Generate Charts → Export Report → 
