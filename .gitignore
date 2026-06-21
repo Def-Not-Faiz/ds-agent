@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+.env.local
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+
+# Generated files
+outputs/
+uploads/
