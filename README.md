@@ -2,7 +2,7 @@
 
 DS-Agent is a full-stack autonomous data science platform that transforms a raw CSV into dataset profiling, data cleaning, feature engineering, model training, chart generation, HTML reporting, and AI-generated narrative insights with minimal human intervention. It combines a Next.js frontend, FastAPI backend, classical ML pipelines, and local LLM inference through Ollama and Qwen2.5.
 
-## Executive Overview
+## Executive Overview 
 
 DS-Agent delivers end-to-end data science automation in a single workflow:
 - 📤 **Upload** your dataset via web interface
@@ -10,6 +10,8 @@ DS-Agent delivers end-to-end data science automation in a single workflow:
 - 🎯 **Train & Compare** multiple ML models
 - 📊 **Generate** visualizations and interactive HTML reports
 - 📝 **Produce** AI-powered narrative insights and recommendations
+  
+#### Scroll down for a demo video walkthough 
 
 ## What It Does
 
